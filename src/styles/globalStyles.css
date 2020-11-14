@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+body, #root{
+    font-size: 10px;
+    color: #FFFFFF;
+}
+
 h1{
     font-family: 'Montserrat';
 }
